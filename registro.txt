@@ -1,0 +1,8 @@
+Instancia eliminada con IP
+Nueva instancia creada con IP 13.38.24.67
+Instancia eliminada con IP 13.38.24.67
+Nueva instancia creada con IP 15.236.218.37
+Instancia eliminada con IP 15.236.218.37
+Nueva instancia creada con IP 51.44.14.99
+Instancia eliminada con IP 51.44.14.99
+Nueva instancia creada con IP 15.236.142.2
